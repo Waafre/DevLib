@@ -1,0 +1,146 @@
+.konten{
+    justify-content: space-between;
+    display: flex;
+    align-items: flex-start;
+    text-align: justify;
+}
+.konten img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#bgkonten{
+    background-image: url(src/image/paper_wp.jpg);
+    background-repeat: no-repeat;
+}
+
+#bgkonten2{
+    background: url(src/image/bg_2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 70px;
+}
+
+#bgkonten3{
+    background-image: url(src/image/bg_4.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#bgkonten4{
+    background-color: #3333335d;
+}
+
+#teks{
+    max-width: 720px;
+    margin: auto;
+}
+
+#teks2{
+    max-width: 480px;
+    margin: auto;
+}
+
+#teks3{
+    max-width: 480px;
+    margin: auto;
+}
+
+#category{
+    text-align: center;
+    padding-top: 30px;
+}
+
+#center{
+    text-align: center;
+}
+
+#link{
+    text-decoration: none;
+    color: #000000;
+}
+
+.button {
+    width: 720px;
+    background-color: #04AA6D;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 36px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.button2 {
+    width: 480px;
+    background-color: #f7fa37;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 24px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.button3 {
+    width: 360px;
+    background-color: #7a512e79;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 24px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.button4 {
+    width: 24   0px;
+    background-color: #ffffff3d;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 20px;
+    margin: auto;
+    cursor: pointer;
+}
+
+header{
+    background-color: #ececec;
+    color: #9c9c9c;
+}
+
+footer {
+    background-color: #575757;
+    color: #fff;
+    text-align: center;
+    padding: 26px 0;
+}
+
+.social-media {
+    margin-bottom: 20px;
+}
+
+.social-media a {
+    margin-right: 20px;
+}
+
+.social-media img {
+    max-width: 30px;
+}
